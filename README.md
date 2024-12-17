@@ -1,6 +1,6 @@
-# Flutter Language Learning App
+# Flutter Splash Screen App
 
-A new Flutter project that helps to learn new words.
+A new Flutter project that shows how to make animations on splash screen.
 
 ## Getting Started
 
